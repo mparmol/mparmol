@@ -9,7 +9,7 @@
    - Highlighting research in human oral viral communities and antibiotic resistance genes in bacteria.
 - Two years of experience in single-cell transcriptomics in reproductive medicine in the analysis of progenitor cells during the menstrual cycle.
   
- <p align="center"><a href="https://www.linkedin.com/in/mparmol/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="[https://twitter.com/FrancescoCiull4](https://twitter.com/mparmol)"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" align="center" alt="Twitter Account" width="40"/></a></p>
+ <p align="center"><a href="https://www.linkedin.com/in/mparmol/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="[https://twitter.com/mparmol](https://twitter.com/mparmol)"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" align="center" alt="Twitter Account" width="40"/></a></p>
   
 </td><td valign="top" width="30%">
 
