@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="75%">
+<table><tr><td valign="top" width="60%">
   
 ## Hi, I am Marcos 👋 
 
@@ -11,7 +11,7 @@
   
  <p align="center"><a href="https://www.linkedin.com/in/mparmol/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="[https://twitter.com/FrancescoCiull4](https://twitter.com/mparmol)"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" align="center" alt="Twitter Account" width="40"/></a></p>
   
-</td><td valign="top" width="25%">
+</td><td valign="top" width="40%">
 
 <a href="https://app.daily.dev/mparmol"><img src="https://api.daily.dev/devcards/7d2721345c6a430c9912512a1423d0b0.png?r=onc" width="400" alt="Marcos Parras Moltó's Dev Card"/></a>
 
