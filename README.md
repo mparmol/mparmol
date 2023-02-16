@@ -9,9 +9,8 @@
    - Highlighting research in human oral viral communities and antibiotic resistance genes in bacteria.
 - Two years of experience in single-cell transcriptomics in reproductive medicine in the analysis of progenitor cells during the menstrual cycle.
   
- <p align="center"><a href="https://www.linkedin.com/in/mparmol/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="https://twitter.com/mparmol"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+ <p align="center"><a href="https://www.linkedin.com/in/mparmol/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" align="center" alt="Linkedin Account" width="30"/></a> <a href="https://twitter.com/mparmol"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> <a href="https://www.kaggle.com/marcosparrasmolt"><img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" title="Kaggle" alt="Kaggle Account" width="40"/></a> 
 
-  
 </td><td valign="top" width="30%">
 
 <a href="https://app.daily.dev/mparmol"><img src="https://api.daily.dev/devcards/7d2721345c6a430c9912512a1423d0b0.png?r=onc" width="400" alt="Marcos Parras Moltó's Dev Card"/></a>
